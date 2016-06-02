@@ -1,0 +1,8 @@
+name: python-tutorial-env
+dependencies:
+- python=3
+- anaconda
+- pip
+- django
+- pip:
+    - pyinstaller
